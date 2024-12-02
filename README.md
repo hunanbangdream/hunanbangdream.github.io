@@ -20,7 +20,7 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 
 #### 使用说明
 
-1.  hexo new post <title> 新增文章
+1. 新增文章 hexo new post \<title\> 
 
 #### 参与贡献
 
