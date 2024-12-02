@@ -289,7 +289,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Lin1229/Lin1229.github.io #todo: 迁移后修改仓库地址
   card_announcement:
     enable: true
     content:
