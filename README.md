@@ -24,6 +24,8 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 2. butterfly配置文件 _config.butterfly.yml
 3. hexo配置文件 _config.yml
 
+
+
 #### 参与贡献
 
 1.  Fork 本仓库
@@ -31,4 +33,7 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 3.  提交代码
 4.  新建 Pull Request
 
+#### 自动部署
 
+1. 推送到远程master分支即可
+2. 注意修改时新建feat分支不要在master上直接修改
