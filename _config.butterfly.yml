@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /img/logo.jpg
   display_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -55,10 +55,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /img/logo.jpg
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/logo.jpg
   effect: false
 
 # Disable all banner images
