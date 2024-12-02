@@ -176,13 +176,13 @@
                 time.shuoshuo-date(title=i.date)=i.date
             .shuoshuo-content
               !=markdown(i.content)
-            .shuoshuo-footer(class=i.tags && i.tags.length ? 'flex-between' : 'flex-end')
+            .shuoshuo-footer(class=i.tags && i.tags.length ? 'flex-between': 'flex-end')
               if i.tags
                 .shuoshuo-tags
                   each tag in i.tags
                     span.shuoshuo-tag=tag
               if i.key && commentsJsLoad
-                .shuoshuo-comment-btn(onclick='addCommentToShuoshuo(event)')
+                .shuoshuo-comment-btn(onclick='addCommentToShuoshuo(241123pppXroselia)')
                   i.fa-solid.fa-comments
           if i.key && commentsJsLoad
             .shuoshuo-comment.no-comment(data-key=i.key)

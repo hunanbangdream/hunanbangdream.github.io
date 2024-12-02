@@ -5,7 +5,7 @@ tags:
   - 地图
   - 活动
 cover: /img/logo.jpg
-categories: 其他
+categories: [其他, 活动指南]
 ---
 
 ![](../img/post/guide1.png)
