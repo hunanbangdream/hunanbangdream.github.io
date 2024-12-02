@@ -18,7 +18,7 @@ nav:
 
 menu:
   主页: / || fas fa-home
-  文章||fas fa-list:
+  页面||fas fa-list:
     分类: /categories/ || fa fa-archive
     标签: /tags/ || fa fa-tags
     归档: /archives/ || fa fa-folder-open
