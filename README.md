@@ -21,6 +21,8 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 #### 使用说明
 
 1. 新增文章 hexo new post \<title\> 
+2. butterfly配置文件 _config.butterfly.yml
+3. hexo配置文件 _config.yml
 
 #### 参与贡献
 
