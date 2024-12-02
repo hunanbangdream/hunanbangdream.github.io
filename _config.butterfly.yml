@@ -22,6 +22,7 @@ menu:
     分类: /categories/ || fa fa-archive
     标签: /tags/ || fa fa-tags
     归档: /archives/ || fa fa-folder-open
+    图库: /gallery/ || fa fa-folder-open
   乐队介绍: /band/ || fa fa-music
   往期活动: /event/ || fa fa-history
   关于湘邦: /about/ || fas fa-heart
@@ -899,7 +900,7 @@ clickShowText:
 # https://github.com/francoischalifour/medium-zoom
 # https://fancyapps.com/fancybox/
 # Leave it empty if you don't need lightbox
-lightbox:
+lightbox: fancybox
 
 # --------------------------------------
 # Tag Plugins settings
