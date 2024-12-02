@@ -17,11 +17,12 @@ nav:
   fixed: false
 
 menu:
-# Home: / || fas fa-home
-# List||fas fa-list:
-#   Music: /music/ || fas fa-music
-#   Movie: /movies/ || fas fa-video
-
+  主页: / || fas fa-home
+  文章||fas fa-list:
+    分类: /categories/ || fa fa-archive
+    标签: /tags/ || fa fa-tags
+    归档: /archives/ || fa fa-folder-open
+  关于湘邦: /about/ || fas fa-heart
 # --------------------------------------
 # Code Blocks Settings
 # --------------------------------------
