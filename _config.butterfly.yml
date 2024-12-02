@@ -357,7 +357,7 @@ aside:
     # Time difference between publish date and now
     # Formal: Month/Day/Year Time or Year/Month/Day Time
     # Leave it empty if you don't enable this feature
-    runtime_date:
+    runtime_date: 2024/12/01
 
 # --------------------------------------
 # Bottom right button
