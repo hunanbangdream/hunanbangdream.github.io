@@ -146,7 +146,7 @@ index_site_info_top:
 index_top_img_height:
 
 # The subtitle on homepage
-# 在此修改网站动态副标题
+# 在此处修改网站动态副标题
 subtitle:
   enable: true
   # Typewriter Effect
