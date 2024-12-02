@@ -65,7 +65,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: /img/top_img.jpg
 
 # The banner image of index page
 index_img:
@@ -90,11 +90,11 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: false
+footer_img: transparent
 
 # Website Background
 # Can set it to color or image url
-background:
+background: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 cover:
   # Disable the cover or not
