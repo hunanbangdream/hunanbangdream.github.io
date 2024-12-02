@@ -292,7 +292,13 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: This is my Blog
+    content:
+      <div>
+        欢迎加入湘邦群
+        <img style='max-width:100%' src="/img/QR_main_group.png"/>
+        2025.3.22长沙BangDream!Only即将开催，欢迎加群
+        <img style='max-width:100%' src="/img/QR_event_group.png"/>
+      </div>
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -318,7 +324,7 @@ aside:
     enable: true
     # If set 0 will show all
     limit: 40
-    color: false
+    color: true
     # Order of tags, random/name/length
     orderby: random
     # Sort of order. 1, asc for ascending; -1, desc for descending
