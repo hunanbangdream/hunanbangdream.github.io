@@ -103,7 +103,7 @@ cover:
   aside_enable: true
   archives_enable: true
   # When cover is not set, the default cover is displayed
-  default_cover:
+  default_cover: /img/logo.jpg
   # - xxx.jpg
 
 # Replace Broken Images
