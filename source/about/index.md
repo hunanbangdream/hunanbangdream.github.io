@@ -8,8 +8,7 @@ date: 2024-12-02 10:29:46
 坐标湖南，主要活动地在长沙，大部分成员来自湖南省，群号：689865195，本群超级活跃不esu不拉踩，
 是一个和谐的邦邦同好会，欢迎全世界的DD一起来玩！
 
-![ksm_emoji.png](material/ksm_emoji.png)
-
+![ksm.png](../img/materal_emoji/ksm.png)
 ## 湘邦历史
 
 - 成立于：2024年1月2日
@@ -18,4 +17,5 @@ date: 2024-12-02 10:29:46
 
 ## TODO补充更多
 
+![ksm114514.png](../img/materal_emoji/ksm2.png)
 
