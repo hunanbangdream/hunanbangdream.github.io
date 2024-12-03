@@ -66,7 +66,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: /img/top_img.jpg
+default_top_img: "background: url() top / cover no-repeat"
 
 # The banner image of index page
 index_img:
@@ -1043,8 +1043,10 @@ css_prefix: true
 inject:
   head:
   # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/imgloaded.css?1">
   bottom:
   # - <script src="xxxx"></script>
+    - <script defer data-pjax src="/js/imgloaded.js?1"></script> # 首页图片渐进式加载
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
