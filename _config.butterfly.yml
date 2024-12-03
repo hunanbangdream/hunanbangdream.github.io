@@ -290,7 +290,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/Lin1229/Lin1229.github.io #todo: 迁移后修改仓库地址
+      link: https://github.com/hunanbangdream/hunanbangdream.github.io
   card_announcement:
     enable: true
     content:
@@ -878,7 +878,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol
 click_heart:
-  enable: false
+  enable: true
   mobile: false
 
 # Mouse click effects: words
