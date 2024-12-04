@@ -46,8 +46,3 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 3. 图片如果过大无法上传，使用 free compress :https://freecompress.com/compress-image ,压缩质量选择30%
 4. 上传完成后选择 嵌入代码-markdown详细信息，复制到对应gallery文件内即可
 
-### 图床使用
-1. 使用img.tg https://img.tg/ ，账号密码联系1229010597木木
-2. 新建对应名称相册并上传
-3. 图片如果过大无法上传，使用 free compress :https://freecompress.com/compress-image ,压缩质量选择30%
-4. 上传完成后选择 嵌入代码-markdown详细信息，复制到对应gallery文件内即可
