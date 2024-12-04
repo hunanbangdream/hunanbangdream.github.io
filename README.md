@@ -43,6 +43,17 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 ### 图床使用
 1. 图床 http://bandori.loveviolet.cn/upload ，感谢 @子衿 提供的图床
 2. 新建对应名称相册并上传
-3. 图片如果过大无法上传，使用 free compress :https://freecompress.com/compress-image ,压缩质量选择30%
+3. 建议对图片都进行压缩，使用 free compress :https://freecompress.com/compress-image ,压缩质量选择30%
 4. 上传完成后选择 嵌入代码-markdown详细信息，复制到对应gallery文件内即可
 
+### 引入b站视频
+1. b站视频点击分享-嵌入代码
+2. 复制嵌入代码中的src链接
+3. 替换到以下代码中，复制到markdown中使用
+```markdown
+{% raw %}
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="将链接复制到此处" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+{% endraw %}
+
+```

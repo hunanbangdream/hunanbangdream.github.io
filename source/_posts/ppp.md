@@ -4,7 +4,7 @@ tags:
   - bangdream
   - Poppin'Party
 categories: [乐队介绍, Poppin'Party]
-cover: ../img/post/Poppin'Party1.png
+cover: http://bandori.loveviolet.cn/i/2024/12/04/674fbcc9a16d8.jpg
 ---
 
 ![](../img/post/Poppin'Party1.png)
@@ -18,6 +18,11 @@ Poppin'Party中四位成员名字的首字母S（沙绫（Saaya）)、T(多惠�
 
 
 ![](../img/post/Poppin'Party2.png)
+
+{% raw %}
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112924991423270&bvid=BV1ufYWe4E5V&cid=500001642282355&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+{% endraw %}
 
 阅读更多：https://mzh.moegirl.org.cn/BanG_Dream!
 本文引自萌娘百科(https://mzh.moegirl.org.cn )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。
