@@ -67,10 +67,10 @@ const executeLoad = (config, target) => {
 };
 
 const config = {
-    smallSrc: 'https://ooo.0x0.ooo/2024/12/03/OLF1WI.jpg', // 小图链接 尽可能配置小于100k的图片
-    largeSrc: 'https://ooo.0x0.ooo/2024/12/03/OLF7gD.jpg', // 大图链接 最终显示的图片
-    mobileSmallSrc: 'https://ooo.0x0.ooo/2024/12/03/OLF1WI.jpg', // 手机端小图链接 尽可能配置小于100k的图片
-    mobileLargeSrc: 'https://ooo.0x0.ooo/2024/12/03/OLF7gD.jpg', // 手机端大图链接 最终显示的图片
+    smallSrc: 'http://bandori.loveviolet.cn/i/2024/12/04/674fb24352d97.jpg', // 小图链接 尽可能配置小于100k的图片
+    largeSrc: 'http://bandori.loveviolet.cn/i/2024/12/03/674f02f87465f.jpg', // 大图链接 最终显示的图片
+    mobileSmallSrc: 'http://bandori.loveviolet.cn/i/2024/12/04/674fb24352d97.jpg', // 手机端小图链接 尽可能配置小于100k的图片
+    mobileLargeSrc: 'http://bandori.loveviolet.cn/i/2024/12/03/674f02f87465f.jpg', // 手机端大图链接 最终显示的图片
     enableRoutes: ['/'],
 };
 

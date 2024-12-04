@@ -3,9 +3,9 @@ title: 24年10月13日Poppin'Party X Roselia观影
 date: 2024-12-02 16:35:30
 ---
 {% gallery %}
-![OLFkGc.jpg](https://ooo.0x0.ooo/2024/12/03/OLFkGc.jpg)
-![OLFx3r.jpg](https://ooo.0x0.ooo/2024/12/03/OLFx3r.jpg)
-![OLFbrq.jpg](https://ooo.0x0.ooo/2024/12/03/OLFbrq.jpg)
-![OLFWov.jpg](https://ooo.0x0.ooo/2024/12/03/OLFWov.jpg)
-![OLFFiM.jpg](https://ooo.0x0.ooo/2024/12/03/OLFFiM.jpg)
+![002.jpg](http://bandori.loveviolet.cn/i/2024/12/04/674fb18463217.jpg)
+![001.jpg](http://bandori.loveviolet.cn/i/2024/12/04/674fb1855e25a.jpg)
+![003.jpg](http://bandori.loveviolet.cn/i/2024/12/04/674fb185831fa.jpg)
+![004.jpg](http://bandori.loveviolet.cn/i/2024/12/04/674fb1873d785.jpg)
+![final_photo.jpg](http://bandori.loveviolet.cn/i/2024/12/04/674fb1880ab34.jpg)
 {% endgallery %}
