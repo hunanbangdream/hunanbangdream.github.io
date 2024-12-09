@@ -4,7 +4,7 @@ tags:
   - bangdream
   - Poppin'Party
 categories: [乐队介绍, Poppin'Party]
-cover: http://bandori.loveviolet.cn/i/2024/12/04/674fbcc9a16d8.jpg
+cover: ../img/post/Poppin'Party1.png
 ---
 
 ![](../img/post/Poppin'Party1.png)

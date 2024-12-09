@@ -41,10 +41,8 @@ butterfly：[butterfly官网](https://butterfly.js.org/)
 2. 注意修改时新建feat分支不要在master上直接修改
 
 ### 图床使用
-1. 图床 http://bandori.loveviolet.cn/upload ，感谢 @子衿 提供的图床
-2. 新建对应名称相册并上传
-3. 建议对图片都进行压缩，使用 free compress :https://freecompress.com/compress-image ,压缩质量选择30%
-4. 上传完成后选择 嵌入代码-markdown详细信息，复制到对应gallery文件内即可
+1. 图床 https://imgurl.loveviolet.cn ，感谢 @子衿 提供的图床 账号:hunanbangdream
+2. 上传后获取相应嵌入代码即可
 
 ### 引入b站视频
 1. b站视频点击分享-嵌入代码
