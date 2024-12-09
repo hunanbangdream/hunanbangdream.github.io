@@ -66,7 +66,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: http://imgurl.loveviolet.cn/images/2024/12/09/top_img.jpg
+default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 # The banner image of index page
 index_img:
